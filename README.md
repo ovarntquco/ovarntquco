@@ -17,6 +17,3 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ovarntquco&limit=5&theme=gotham&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=ovarntquco&icon=0&color=1)](https://visitcount.itsvg.in)
